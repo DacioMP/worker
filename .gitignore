@@ -1,0 +1,16 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/bin/
+.metadata/
